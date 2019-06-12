@@ -1,0 +1,6 @@
+D:\ETEC\Ensino Técnico\LPOO\contaConstrutor\contaConstrutor\bin\Debug\contaConstrutor.exe.config
+D:\ETEC\Ensino Técnico\LPOO\contaConstrutor\contaConstrutor\obj\Debug\contaConstrutor.csprojResolveAssemblyReference.cache
+D:\ETEC\Ensino Técnico\LPOO\contaConstrutor\contaConstrutor\bin\Debug\contaConstrutor.exe
+D:\ETEC\Ensino Técnico\LPOO\contaConstrutor\contaConstrutor\bin\Debug\contaConstrutor.pdb
+D:\ETEC\Ensino Técnico\LPOO\contaConstrutor\contaConstrutor\obj\Debug\contaConstrutor.exe
+D:\ETEC\Ensino Técnico\LPOO\contaConstrutor\contaConstrutor\obj\Debug\contaConstrutor.pdb

@@ -1,0 +1,6 @@
+D:\ETEC\Ensino Técnico\LPOO\calculadoras\calculadoras\bin\Debug\calculadoras.exe.config
+D:\ETEC\Ensino Técnico\LPOO\calculadoras\calculadoras\bin\Debug\calculadoras.exe
+D:\ETEC\Ensino Técnico\LPOO\calculadoras\calculadoras\bin\Debug\calculadoras.pdb
+D:\ETEC\Ensino Técnico\LPOO\calculadoras\calculadoras\obj\Debug\calculadoras.csprojResolveAssemblyReference.cache
+D:\ETEC\Ensino Técnico\LPOO\calculadoras\calculadoras\obj\Debug\calculadoras.exe
+D:\ETEC\Ensino Técnico\LPOO\calculadoras\calculadoras\obj\Debug\calculadoras.pdb

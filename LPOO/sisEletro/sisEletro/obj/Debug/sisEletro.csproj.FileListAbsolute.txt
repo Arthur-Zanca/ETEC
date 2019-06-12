@@ -1,0 +1,6 @@
+D:\ETEC\Ensino Técnico\LPOO\sisEletro\sisEletro\bin\Debug\sisEletro.exe.config
+D:\ETEC\Ensino Técnico\LPOO\sisEletro\sisEletro\bin\Debug\sisEletro.exe
+D:\ETEC\Ensino Técnico\LPOO\sisEletro\sisEletro\bin\Debug\sisEletro.pdb
+D:\ETEC\Ensino Técnico\LPOO\sisEletro\sisEletro\obj\Debug\sisEletro.csprojResolveAssemblyReference.cache
+D:\ETEC\Ensino Técnico\LPOO\sisEletro\sisEletro\obj\Debug\sisEletro.exe
+D:\ETEC\Ensino Técnico\LPOO\sisEletro\sisEletro\obj\Debug\sisEletro.pdb

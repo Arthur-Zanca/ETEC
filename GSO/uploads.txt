@@ -1,0 +1,12 @@
+		gratuito			pago
+
+mega		50gb				200gb (22,04mes) // 1tb (44,12mes)// 4tb(88,29mes)// 8tb (132,46mes)
+one drive	5gb				50gb ($84 ano)// 1tb ($239 ano)// 6tb(299 ano)
+gdrive  	15gb				100gb (70 ano)// 200gb(100 ano)
+media fire	50gb 				1tb (237 ano)// 100tb (1885 ano)
+4 shared	15gb				100gb (330 ano)
+dropbox		2gb				1tb (440 ano)// 2tb (880 ano)
+cloud drive 	5gb				2t (40 mensal)
+box		50gb				100gb (204 ano)// ilimitado (max 5gb arquivo)($704 ano)
+icloud 		5gb				50gb (60 ano)//	200gb (120 ano)// 2tb (360 ano)
+azure		5gb				1tb (80 mensal)				

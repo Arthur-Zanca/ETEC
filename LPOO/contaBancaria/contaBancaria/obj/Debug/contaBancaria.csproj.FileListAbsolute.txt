@@ -1,0 +1,6 @@
+D:\ETEC\Ensino Técnico\LPOO\contaBancaria\contaBancaria\bin\Debug\contaBancaria.exe.config
+D:\ETEC\Ensino Técnico\LPOO\contaBancaria\contaBancaria\bin\Debug\contaBancaria.exe
+D:\ETEC\Ensino Técnico\LPOO\contaBancaria\contaBancaria\bin\Debug\contaBancaria.pdb
+D:\ETEC\Ensino Técnico\LPOO\contaBancaria\contaBancaria\obj\Debug\contaBancaria.csprojResolveAssemblyReference.cache
+D:\ETEC\Ensino Técnico\LPOO\contaBancaria\contaBancaria\obj\Debug\contaBancaria.exe
+D:\ETEC\Ensino Técnico\LPOO\contaBancaria\contaBancaria\obj\Debug\contaBancaria.pdb

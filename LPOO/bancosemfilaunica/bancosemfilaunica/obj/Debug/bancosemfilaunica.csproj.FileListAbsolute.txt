@@ -1,0 +1,9 @@
+D:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\bin\Debug\bancosemfilaunica.exe.config
+E:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\bin\Debug\bancosemfilaunica.exe.config
+E:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\bin\Debug\bancosemfilaunica.exe
+E:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\bin\Debug\bancosemfilaunica.pdb
+E:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\obj\Debug\bancosemfilaunica.csprojResolveAssemblyReference.cache
+E:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\obj\Debug\bancosemfilaunica.exe
+E:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\obj\Debug\bancosemfilaunica.pdb
+D:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\obj\Debug\bancosemfilaunica.exe
+D:\ETEC\Ensino Técnico\LPOO\bancosemfilaunica\bancosemfilaunica\obj\Debug\bancosemfilaunica.pdb

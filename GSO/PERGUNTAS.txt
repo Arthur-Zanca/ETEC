@@ -1,0 +1,36 @@
+--------------------------------------------------------------------------------------------
+
+1 defina SO
+2 explique SO monousuario/multiusuaruio
+3 cite os SO que você conhece
+4 defina as partes do SO (kernel, gerenciador de processos e arquivos, memoria)
+5 analise as empresas - apple - microsoft nos dias atuais
+6 defina SO proprietario/livre
+7 qual SO voce usa mais atualmente
+
+----------------------------------------------------------------------------------------------
+1> SO é o sistema operacional do computador, composto por varios programas e sendo o responsavel por executar e gerenciar 
+	os programas
+
+2>  SO monousuario = é o sistema que aceita apenas a execução de um usuário/prgrama no computador por vez
+      SO multiusuario = é um sistema que aceita a execução de vários usuários/programas por vez
+
+3> MacOS, Windows, Linux (e suas distros), MS-DOS
+
+4> Kernel: é o nucleo base do SO
+     Gerenciador de processos e memoria: é o responsavel por administrar os processos e uso de CPU/GPU/Memória/Disco usados pelos aplicativos
+
+5> APPLE: a apple se consagrou como uma gigante da industria mobile, oferecendo produtos como iPhone, iPad e Macbook, sempre
+	  com a política de oferecer 'o melhor' custe o que custar, incluindo preços exorbitantes e escandalos envolvendo trabalho quase
+	  escravo, sendo atualmente a cxompanhia mais valiosa do mundo
+     MICROSOFT: se especializando no mercado de computadores a microsoft atualmente fornce um dos sistemas operacionais mais completos
+	e controversos: o WINDOWS(PC)  a empresa enriqueceu sob o comando de Satya Nadella a empresa ofere a seus clientes por meio do 
+	WINDOWS E XBOX um suporte muito bom e completo
+
+6> SO proprietario é o que tem um 'dono registrado' ex: windows, macos, ja os SOs livre não possuem donos, e tem seu cod. fonte aberto ex: linux
+
+7> Windows
+
+-------------------------------------------------------------------------------------------------
+office 240
+windows 730

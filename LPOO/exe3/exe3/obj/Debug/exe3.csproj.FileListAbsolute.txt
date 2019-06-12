@@ -1,0 +1,5 @@
+D:\ETEC\Ensino Técnico\LPOO\exe3\exe3\bin\Debug\exe3.exe.config
+D:\ETEC\Ensino Técnico\LPOO\exe3\exe3\bin\Debug\exe3.exe
+D:\ETEC\Ensino Técnico\LPOO\exe3\exe3\bin\Debug\exe3.pdb
+D:\ETEC\Ensino Técnico\LPOO\exe3\exe3\obj\Debug\exe3.exe
+D:\ETEC\Ensino Técnico\LPOO\exe3\exe3\obj\Debug\exe3.pdb

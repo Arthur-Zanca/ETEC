@@ -1,0 +1,6 @@
+D:\ETEC\Ensino Técnico\LPOO\exe4\exe4\bin\Debug\exe4.exe.config
+D:\ETEC\Ensino Técnico\LPOO\exe4\exe4\bin\Debug\exe4.exe
+D:\ETEC\Ensino Técnico\LPOO\exe4\exe4\bin\Debug\exe4.pdb
+D:\ETEC\Ensino Técnico\LPOO\exe4\exe4\obj\Debug\exe4.csprojResolveAssemblyReference.cache
+D:\ETEC\Ensino Técnico\LPOO\exe4\exe4\obj\Debug\exe4.exe
+D:\ETEC\Ensino Técnico\LPOO\exe4\exe4\obj\Debug\exe4.pdb

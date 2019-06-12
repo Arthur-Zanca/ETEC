@@ -1,0 +1,12 @@
+D:\LPOO\ExemploBic\ExemploBic\bin\Debug\ExemploBic.exe.config
+D:\LPOO\ExemploBic\ExemploBic\bin\Debug\ExemploBic.exe
+D:\LPOO\ExemploBic\ExemploBic\bin\Debug\ExemploBic.pdb
+D:\LPOO\ExemploBic\ExemploBic\obj\Debug\ExemploBic.csprojResolveAssemblyReference.cache
+D:\LPOO\ExemploBic\ExemploBic\obj\Debug\ExemploBic.exe
+D:\LPOO\ExemploBic\ExemploBic\obj\Debug\ExemploBic.pdb
+D:\2019\LPOO\ExemploBic\ExemploBic\bin\Debug\ExemploBic.exe.config
+D:\2019\LPOO\ExemploBic\ExemploBic\obj\Debug\ExemploBic.exe
+D:\2019\LPOO\ExemploBic\ExemploBic\obj\Debug\ExemploBic.pdb
+D:\ETEC\Ensino Técnico\LPOO\Nova pasta\ExemploBic\ExemploBic\bin\Debug\ExemploBic.exe.config
+D:\ETEC\Ensino Técnico\LPOO\Nova pasta\ExemploBic\ExemploBic\obj\Debug\ExemploBic.exe
+D:\ETEC\Ensino Técnico\LPOO\Nova pasta\ExemploBic\ExemploBic\obj\Debug\ExemploBic.pdb

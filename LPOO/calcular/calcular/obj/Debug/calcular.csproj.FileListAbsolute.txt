@@ -1,0 +1,12 @@
+E:\ETEC\Ensino Técnico\LPOO\calcular\calcular\bin\Debug\calcular.exe.config
+E:\ETEC\Ensino Técnico\LPOO\calcular\calcular\bin\Debug\calcular.exe
+E:\ETEC\Ensino Técnico\LPOO\calcular\calcular\bin\Debug\calcular.pdb
+E:\ETEC\Ensino Técnico\LPOO\calcular\calcular\obj\Debug\calcular.csprojResolveAssemblyReference.cache
+E:\ETEC\Ensino Técnico\LPOO\calcular\calcular\obj\Debug\calcular.exe
+E:\ETEC\Ensino Técnico\LPOO\calcular\calcular\obj\Debug\calcular.pdb
+D:\ETEC\Ensino Técnico\LPOO\calcular\calcular\bin\Debug\calcular.exe.config
+D:\ETEC\Ensino Técnico\LPOO\calcular\calcular\obj\Debug\calcular.exe
+D:\ETEC\Ensino Técnico\LPOO\calcular\calcular\obj\Debug\calcular.pdb
+D:\ETEC\Ensino Técnico\LPOO\calcular\calcular\bin\Debug\calcular.exe
+D:\ETEC\Ensino Técnico\LPOO\calcular\calcular\bin\Debug\calcular.pdb
+D:\ETEC\Ensino Técnico\LPOO\calcular\calcular\obj\Debug\calcular.csprojResolveAssemblyReference.cache

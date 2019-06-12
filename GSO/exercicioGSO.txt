@@ -1,0 +1,8 @@
+Exercício arquivos de Lote(.bat)
+
+1.Criar um arquivo de lote para usar o comando ping em um site a sua escolha
+2.Criar um arquivo de lote para criar uma pasta com o seu nome e copiar de uma pasta chamada copia todos os arquivos para esta pasta.
+3.Criar um arquivo de lote para excluir os arquivos e a pasta com o seu nome
+4.Criar um arquivo de lote para renomear a pasta copia para backup
+5.Criar um arquivo de lote para exibir o seu nome em loop na tela até que seja teclado alguma coisa.
+6.Pesquise um exemplo na internet de arquivo de lote e mostre ele junto com os outros exercícios.

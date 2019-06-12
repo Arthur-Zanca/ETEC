@@ -1,0 +1,9 @@
+D:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\bin\Debug\exemploTV.exe.config
+D:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\bin\Debug\exemploTV.exe
+D:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\bin\Debug\exemploTV.pdb
+D:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\obj\Debug\exemploTV.csprojResolveAssemblyReference.cache
+D:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\obj\Debug\exemploTV.exe
+D:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\obj\Debug\exemploTV.pdb
+E:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\bin\Debug\exemploTV.exe.config
+E:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\obj\Debug\exemploTV.exe
+E:\ETEC\Ensino Técnico\LPOO\exemploTV\exemploTV\obj\Debug\exemploTV.pdb
